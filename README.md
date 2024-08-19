@@ -26,7 +26,11 @@ N.B. Lettertypes installeren kan je op zowel Windows, macOS als Linux door te du
 
 ## LaTeX editor, bibliografie
 
-Qua editors voor LaTeX zijn er verschillende keuzemogelijkheden. We raden [TeXstudio](https://www.texstudio.org/) aan en [Jabref](https://www.jabref.org/) voor het bijhouden van een bibliografische databank. Ook Visual Studio Code is een zeer goede LaTeX-editor (via de plugin LaTeX Workshop van James Yu).
+Qua editors voor LaTeX zijn er verschillende keuzemogelijkheden. We raden [TeXstudio](https://www.texstudio.org/) aan en [Jabref](https://www.jabref.org/) voor het bijhouden van een bibliografische databank. 
+
+Om Texstudio goed te kunnen gebruiken, zal je ook [MikTex](https://miktex.org/download) moeten afhalen en installeren (of TexLive). 
+
+Ook Visual Studio Code is een zeer goede LaTeX-editor (via de plugin LaTeX Workshop van James Yu).
 
 ### TeXstudio configureren
 
